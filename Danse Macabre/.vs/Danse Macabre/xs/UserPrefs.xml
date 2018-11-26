@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{413EBD86-AAB5-92E6-1038-ED154D1D9C55}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Effects/AttackSingle.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CardDisplay.cs" Line="11" Column="26" />
+      <File FileName="Assets/Scripts/Effect.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/Card.cs" Line="5" Column="1" />
+      <File FileName="Assets/Effects/AttackSingle.cs" Line="2" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
